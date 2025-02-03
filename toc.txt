@@ -2,3 +2,6 @@ welcome
 
 DBMS
 MySql
+
+Java
+Hibernate
